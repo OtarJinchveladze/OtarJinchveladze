@@ -1,14 +1,12 @@
 <h1>Hi, I'm Oti!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I never thought debugging a semicolon at 3 AM could spark joy, yet here I am, thrilled to write you about my passion for turning caffeine and code into meaningful software solutions. As a Computer Science student at ELTE, I’ve spent countless hours wrestling with algorithms, building projects, and occasionally celebrating when my code runs on the first try (a rare but glorious moment). 
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+Jokes aside, my name is Otar Jintchveladze, a driven and passionate young computer scientist with a goal to not just write code, but to truly program with purpose. Instead of detailing everything about myself here, I invite you to explore my personal portfolio at www.otarjinchveladze.com. While it doesn’t cover everything, it offers a glimpse into my work. If you'd like to learn more or discuss my expertise, feel free to reach out via email at otarjinchveladze@gmail.com. I'd be happy to share more!
 
 
-<h2> 🤳 Connect with me:</h2>
+
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://linkedin.com/in/otarjinchveladze
